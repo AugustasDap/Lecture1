@@ -1,0 +1,15 @@
+﻿FS1;Tapas;2
+FS2;Cheese;2
+FS3;Olives;2
+SS1;Cezar;6
+SS2;Vegan;5
+SS3;Salmon;5
+SU1;Onion soup;5
+SU2;Charchio;6
+SU3;Mushroom soup;5
+S1;Salmon;10
+S2;Steak;12
+S3;Chicken;11
+S1;Ice-cream;3
+S2;Apple pie;5
+S3;Creme brulee;6

@@ -1,0 +1,7 @@
+CardId: 296fb182-772c-44b9-839b-affddb76581e, Amount: 65, Transaction Type: withdraw
+CardId: 296fb182-772c-44b9-839b-affddb76581e, Amount: 450, Transaction Type: withdraw
+CardId: 296fb182-772c-44b9-839b-affddb76581e, Amount: 89, Transaction Type: withdraw
+CardId: 296fb182-772c-44b9-839b-affddb76581e, Amount: 95, Transaction Type: withdraw
+CardId: 296fb182-772c-44b9-839b-affddb76581e, Amount: 987, Transaction Type: withdraw
+CardId: 296fb182-772c-44b9-839b-affddb76581e, Amount: 1, Transaction Type: withdraw
+Date and Time: 2024-01-25 7:52:40 PM, CardId: 296fb182-772c-44b9-839b-affddb76581e, Amount: 500, Transaction Type: withdraw

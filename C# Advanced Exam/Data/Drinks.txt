@@ -1,0 +1,9 @@
+﻿DR1;Water;1
+DR2;Fanta;1
+DR3;Sprite;1
+T1;Black tea;2
+T2;Black coffee;2
+T3;White coffee;2
+A1;Beer;5
+A2;Wine;6
+A3;Whiskey;7

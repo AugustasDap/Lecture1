@@ -1,0 +1,4 @@
+CardId: d4754247-d6d4-491a-b003-273fc5598ab3, Amount: 100, Transaction Type: withdraw
+CardId: d4754247-d6d4-491a-b003-273fc5598ab3, Amount: 50, Transaction Type: withdraw
+2024-01-25 9:41:00 PM, CardId: d4754247-d6d4-491a-b003-273fc5598ab3, Amount: 400, Transaction Type: withdraw
+2024-01-25 9:52:31 PM, CardId: d4754247-d6d4-491a-b003-273fc5598ab3, Amount: 20, Transaction Type: withdraw

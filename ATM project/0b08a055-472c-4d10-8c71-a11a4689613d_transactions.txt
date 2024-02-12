@@ -1,0 +1,1 @@
+2024-01-25 7:54:04 PM, CardId: 0b08a055-472c-4d10-8c71-a11a4689613d, Amount: 569, Transaction Type: withdraw

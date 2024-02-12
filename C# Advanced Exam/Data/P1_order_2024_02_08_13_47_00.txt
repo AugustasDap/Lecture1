@@ -1,0 +1,5 @@
+2024-02-08 1:47:00 PM, employee: P1, table: E1
+SU1;Onion soup;5;food
+SU1;Onion soup;5;food
+SU1;Onion soup;5;food
+Total ordered 15 EUR

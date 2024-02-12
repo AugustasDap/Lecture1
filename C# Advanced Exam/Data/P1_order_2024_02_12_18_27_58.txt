@@ -1,0 +1,7 @@
+2024-02-12 6:27:58 PM, employee: P1, table: E1
+SU3;Mushroom soup;5;food
+SU3;Mushroom soup;5;food
+A2;Wine;6;drink
+A2;Wine;6;drink
+A2;Wine;6;drink
+Total ordered 28 EUR

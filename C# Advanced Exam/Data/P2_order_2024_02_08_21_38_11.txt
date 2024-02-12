@@ -1,0 +1,12 @@
+2024-02-08 9:38:11 PM, employee: P2, table: W2
+SS1;Cezar;6;food
+SS1;Cezar;6;food
+SS1;Cezar;6;food
+SS1;Cezar;6;food
+SU3;Mushroom soup;5;food
+T1;Black tea;2;drink
+T1;Black tea;2;drink
+A3;Whiskey;7;drink
+A3;Whiskey;7;drink
+A3;Whiskey;7;drink
+Total ordered 54 EUR

@@ -1,0 +1,8 @@
+N1;4;order
+N2;4;order
+E1;6;order
+E2;6;order
+S1;2;free
+S2;2;free
+W1;4;order
+W2;4;free
